@@ -1,0 +1,6 @@
+Student_ID,Actual_Outcome,Model_Prediction,Actual_Midterm,Predicted_Midterm
+STU_01,1,1,78.0,80.0
+STU_02,0,0,50.0,47.0
+STU_03,1,1,68.0,68.0
+STU_04,0,1,58.0,64.0
+STU_05,1,0,82.0,77.0
